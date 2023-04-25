@@ -3,6 +3,8 @@ baseURL: "https://jhonglidden.github.io/"
 languageCode: en-us
 title: Example Site
 
+publishDir: "docs"
+
 module:
   imports:
   - path: github.com/hugo-toha/hugo-toha.github.io
