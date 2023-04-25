@@ -1,9 +1,8 @@
-
+publishDir: "docs"
 baseURL: "https://jhonglidden.github.io/"
 languageCode: en-us
 title: Example Site
 
-publishDir: "docs"
 
 module:
   imports:
